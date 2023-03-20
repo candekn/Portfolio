@@ -1,0 +1,25 @@
+.profile{
+    max-width: 15%;
+}
+
+a{
+    text-decoration: none;
+    color: #212121 !important;
+}
+
+a:hover{
+    font-weight: bold;
+}
+
+.social-links{
+    margin: 1em;
+}
+
+.dev-icons{
+    font-size: 8em;
+}
+
+.m-nav{
+    margin-top: 5em;
+    margin-left: 20em;
+}
